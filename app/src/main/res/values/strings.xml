@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrialVersionApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="trial">Trial version demo app</string>
+
+
+
+    <string name="trialclick">Click this 5 Times</string>
+
+    <string name="reset">RESET THE TRIAL</string>
+
+    <string name="many">Click unlimited</string>
+</resources>
